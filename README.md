@@ -1,0 +1,1 @@
+# joplin-check-for-updates-plugin
